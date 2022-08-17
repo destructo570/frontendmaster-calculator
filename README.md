@@ -1,2 +1,8 @@
 # frontendmaster-calculator
- Frontend mentor calculator challenge.
+ 
+### A simple calculator app made with Vanilla Javascript.
+
+TechStack: 
+- HTML
+- CSS
+- Vanilla Javascript
