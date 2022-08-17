@@ -221,23 +221,6 @@ class Calculator {
   }
 }
 
-// class Theme {
-//   constructor(themeColors) {
-//     this.bg = themeColors.bg;
-//     this.toggleBg = themeColors.toggleBg;
-//     this.keypadBg = the;
-//     this.screenBg = "hsl(224, 36%, 15%)";
-//     this.baseKeyBg = "hsl(30, 25%, 89%)";
-//     this.baseKeyShadowBg = "hsl(28, 16%, 65%)";
-//     this.keyBg = "hsl(225, 21%, 49%)";
-//     this.keyShadowBg = "hsl(224, 28%, 35%)";
-//     this.equalKeyBg = "hsl(6, 63%, 50%)";
-//     this.equalKeyShadowBg = "hsl(6, 70%, 34%)";
-//     this.primaryTextColor = "hsl(0, 0%, 100%)";
-//     this.secondaryTextColor = "hsl(221, 14%, 31%)";
-//   }
-// }
-
 const theme1 = {
   name: "theme-1",
   bg: "hsl(222, 26%, 31%)",
